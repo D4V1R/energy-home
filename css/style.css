@@ -1,0 +1,29 @@
+body{
+    background-color: #252623ff;
+    text-align: center;
+    padding-top: 70px;
+}
+
+#plugue-div{
+    margin-top: 40px;
+}
+
+.btn{
+    border-radius: 50px;
+    width: 200px;
+}
+
+.buttons-class{
+    margin-top: 30px;
+}
+
+#btn-acessar{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #decc00ff;
+}
+
+#btn-cadastrar{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #636159ff;
+    color: white;
+}
